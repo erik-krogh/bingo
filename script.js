@@ -13,7 +13,6 @@ $(function () {
     "Søens folk",
     "Klima",
     "Færøerne",
-    "Grønland",
     "Inflation",
     "Krise",
     "Energikrise",
