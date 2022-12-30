@@ -66,7 +66,8 @@ $(function () {
         `);
     });
 
-    $(".item").on("click", function () {
+    // using "touchstart" and "click", to make it instant on mobile
+    $(".item").on("click", function (e) {
       $(this).toggleClass("active");
     });
   }
