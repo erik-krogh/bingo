@@ -4,7 +4,7 @@ $(function () {
     "Ukraine",
     "Rusland",
     "Krig",
-    "usikker",
+    "Usikker",
     "Prins Joachim",
     "Konprinsesse Mary",
     "Konprinsen",
